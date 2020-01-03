@@ -1,2 +1,2 @@
 # SearchBar
- Simple two search bar examples
+ A simple search bar example by pure code.
